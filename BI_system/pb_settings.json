@@ -1,0 +1,49 @@
+{
+  "name": "Meiryo UI Theme",
+  "textClasses": {
+    "callout": {
+      "fontFace": "Meiryo UI"
+    },
+    "title": {
+      "fontFace": "Meiryo UI"
+    },
+    "header": {
+      "fontFace": "Meiryo UI"
+    },
+    "label": {
+      "fontFace": "Meiryo UI"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "categoryAxis": [
+          {
+            "fontFamily": "Meiryo UI",
+            "fontSize": 14,
+            "showAxisTitle": true,
+            "titleFontFamily": "Meiryo UI",
+            "titleFontSize": 18
+          }
+        ],
+        "valueAxis": [
+          {
+            "fontFamily": "Meiryo UI",
+            "fontSize": 18,
+            "showAxisTitle": true,
+            "titleFontFamily": "Meiryo UI",
+            "titleFontSize": 18
+          }
+        ],
+        "legend": [
+          {
+            "show": true,
+            "position": "TopCenter",
+            "fontFamily": "Meiryo UI",
+            "fontSize": 14
+          }
+        ]
+      }
+    }
+  }
+}
